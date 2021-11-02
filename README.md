@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanderaiaots
-- 👀 I’m interested in C#, Python, TypeScript, Reacj
+- 👀 I’m interested in C#, Python, TypeScript, React
 - 🌱 I’m currently learning React, Neo4j
 - 📫 How to reach me ...
 
